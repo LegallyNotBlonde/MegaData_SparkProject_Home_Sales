@@ -2,7 +2,7 @@
 
 This project demonstrates the application of **PySpark** and **SparkSQL** to analyze large-scale home sales data. The goal was to extract insights and evaluate performance optimization techniques for handling extensive datasets.
 
-[Google Colab Link](https://github.com/LegallyNotBlonde/MegaData_SparkProject_Home_Sales) - *View-only access to the executed code*.
+[Google Colab Link](https://colab.research.google.com/drive/1JAqXeZ72H8PeUpzbIQnDB31JAs0zDSQV#scrollTo=G_Vhb52rU1Sn) - *View-only access to the executed code*.
 
 ## Project Objectives
 
