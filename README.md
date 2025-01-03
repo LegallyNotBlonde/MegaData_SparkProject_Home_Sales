@@ -45,11 +45,11 @@ This graph indicates stable trends, with minor price fluctuations, suggesting a 
 ![Average Price by Year Built for 3-Bedroom, 3-Bathroom Homes](https://github.com/LegallyNotBlonde/MegaData_SparkProject_Home_Sales/blob/main/Visualization/avg_price_3b_3ba.png)
 Illustrate steady pricing for this configuration, showing no significant impact of year during analysed period built on prices.
 
-* **View Ratings:** Properties with high view ratings (e.g., 90+) commanded premium prices exceeding $1,000,000, emphasizing the value of scenic views in real estate pricing.
-These insights demonstrate the potential to use data-driven approaches for pricing strategies, market segmentation, and investment planning.
+* **View Ratings:** Properties with high view ratings (e.g., 90+) commanded premium prices exceeding $1,000,000, suggesting a strong correlation between scenic views and property valuation. 
+However, this relationship may not be causal; high-value properties in prime locations might inherently offer better views, driving both higher ratings and prices.
 
 ![Average Price by View Rating](https://github.com/LegallyNotBlonde/MegaData_SparkProject_Home_Sales/blob/main/Visualization/avg_price_by_view.png)
-This bar chart clearly shows the premium pricing associated with higher view ratings, emphasizing their importance in property valuation
+This bar chart illustrates the correlation between premium pricing and higher view ratings.
 ___
 ## Conclusion:
 This analysis showcases the ability to extract actionable insights from large datasets, supporting real estate decisions such as pricing strategies, feature valuation, and market trend identification. 
