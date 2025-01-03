@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project utilizes **PySpark** and **SparkSQL** to analyze a large-scale, fictional real estate dataset. 
-It demonstrates how big data tools can uncover valuable insights such as pricing trends, the impact of property features, and market segment performance, while optimizing the handling of extensive datasets.
+It demonstrates how big data tools can uncover valuable insights such as pricing trends, the impact of property features, and market segment performance while optimizing the handling of extensive datasets.
 
 [Google Colab Link](https://colab.research.google.com/drive/1JAqXeZ72H8PeUpzbIQnDB31JAs0zDSQV#scrollTo=G_Vhb52rU1Sn) - *View-only access to the executed code*.
 
@@ -43,7 +43,7 @@ This graph indicates stable trends, with minor price fluctuations, suggesting a 
 
 * **Feature Impacts:** Homes with specific configurations (e.g., three bedrooms, three bathrooms) had stable pricing trends by year built, indicating steady demand for these features.
 ![Average Price by Year Built for 3-Bedroom, 3-Bathroom Homes](https://github.com/LegallyNotBlonde/MegaData_SparkProject_Home_Sales/blob/main/Visualization/avg_price_3b_3ba.png)
-Illustrate steady pricing for this configuration, showing no significant impact of year during analysed period built on prices.
+Illustrates steady pricing for this configuration, showing no significant impact of year built on prices during the analyzed period.
 
 * **View Ratings:** Properties with high view ratings (e.g., 90+) commanded premium prices exceeding $1,000,000, suggesting a strong correlation between scenic views and property valuation. 
 However, this relationship may not be causal; high-value properties in prime locations might inherently offer better views, driving both higher ratings and prices.
