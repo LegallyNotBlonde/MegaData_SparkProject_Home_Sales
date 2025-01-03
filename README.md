@@ -11,7 +11,7 @@ It demonstrates how big data tools can uncover valuable insights such as pricing
 
 The analysis focused on:
 
-* Identifying yearly pricing trends for four-bedroom homes.
+* Identifying yearly pricing trends for various property types.
 * Assessing the influence of specific property features (e.g., bedrooms, bathrooms, view ratings) on home prices.
 * Evaluating the efficiency of data operations using caching and partitioning techniques.
 ___
@@ -35,11 +35,12 @@ ___
 * **SQL Analysis:** Efficient queries for trend and feature analysis.
 
 ___
-
 ## Insights and Conclusions:
-* **Pricing Trends:** Four-bedroom homes showed consistent average prices over the years, with slight fluctuations around $300,000.
-![Average Price of 4-Bedroom Houses by Year Sold](https://github.com/LegallyNotBlonde/MegaData_SparkProject_Home_Sales/blob/main/Visualization/avg_price_4_bedrooms.png)
-This graph indicates stable trends, with minor price fluctuations, suggesting a predictable market for this property type.
+
+* **Pricing Trends:**
+The pricing trends for 2-bedroom, 3-bedroom, and 4-bedroom houses show diverging patterns. 
+While 2-bedroom and 3-bedroom homes have a steady upward trend in average prices, 4-bedroom homes experience a gradual decline over the years. This divergence likely reflects shifts in demand and affordability among buyers.
+![Average Price of 2-3-4-Bedroom Houses by Year Sold](https://github.com/LegallyNotBlonde/MegaData_SparkProject_Home_Sales/blob/main/Visualization/avg_price_2_3_4_bedrooms.png)
 
 * **Feature Impacts:** Homes with specific configurations (e.g., three bedrooms, three bathrooms) had stable pricing trends by year built, indicating steady demand for these features.
 ![Average Price by Year Built for 3-Bedroom, 3-Bathroom Homes](https://github.com/LegallyNotBlonde/MegaData_SparkProject_Home_Sales/blob/main/Visualization/avg_price_3b_3ba.png)
